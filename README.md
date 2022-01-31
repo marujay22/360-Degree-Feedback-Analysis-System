@@ -13,7 +13,7 @@ which will enable higher-level authorities to take decisions and understand cert
 growth and decline in any organization. 
 
 ## I have published paper on this concept in International Advanced Research Journal in Science, Engineering and Technology (IARJSET) :
-https://iarjset.com/wp-content/uploads/2019/11/IARJSET.2019.61006.pdf 
+https://iarjset.com/wp-content/uploads/2021/09/IARJSET.2021.88100.pdf
 
 ## Technologies, Database and Tools used :
 Android Studio, Java, Python, XML, DialogFlow, Firebase (NoSql Database)
